@@ -8,6 +8,7 @@ En donde aprendimos a obtener el vocabulario del corpus (los términos utilizado
 Luego dada una lista de textos, devolver una matriz con la representación oneHotEncoding de estos
 tambien dada una lista de textos, devolver una matriz con la representación de frecuencia de estos
 Y por ultimo realizamos una funcion que reciba el corpus y el índice de un documento y devuelva los documentos ordenados por la similitud coseno
+![Alt text](image.png)
 
 Clase 2 : Preprocesamiento de texto
 En esta clase construimos nuestro propio chatbot basado en un ejemplo dado en clase.
